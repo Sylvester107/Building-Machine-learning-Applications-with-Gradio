@@ -3,7 +3,7 @@
 📚 **Description**
 =================
 
-Welcome to Building Machine Learning Applications With Gradio! This project is designed embed a machine learning file into an app for users. It's uses a previously trained Logistic Regression model for customer churn prediction.
+Welcome to Building Machine Learning Applications With Gradio! This project is designed to embed a machine learning file into an app for users. It's uses a previously trained Logistic Regression model for customer churn prediction.
 
 📖 **Table of Contents**
 =================
@@ -43,9 +43,8 @@ This will open the App in your browser
 
 **Sample user interface**
 
-```Markdown
-! UI output UI_with_output.png
-```
+![UI output](UI_with_output.png)
+
 NB: The machine learning file is stored as pipe.pkl which conatains a pipeline of data transforms up to the regression model
 
 👥 **Authors**
